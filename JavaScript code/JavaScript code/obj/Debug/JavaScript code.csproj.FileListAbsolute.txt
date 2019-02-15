@@ -1,0 +1,7 @@
+D:\js code\JavaScript\JavaScript code\JavaScript code\bin\Debug\JavaScript code.exe.config
+D:\js code\JavaScript\JavaScript code\JavaScript code\bin\Debug\JavaScript code.exe
+D:\js code\JavaScript\JavaScript code\JavaScript code\bin\Debug\JavaScript code.pdb
+D:\js code\JavaScript\JavaScript code\JavaScript code\obj\Debug\JavaScript code.csprojResolveAssemblyReference.cache
+D:\js code\JavaScript\JavaScript code\JavaScript code\obj\Debug\JavaScript code.csproj.CoreCompileInputs.cache
+D:\js code\JavaScript\JavaScript code\JavaScript code\obj\Debug\JavaScript code.exe
+D:\js code\JavaScript\JavaScript code\JavaScript code\obj\Debug\JavaScript code.pdb
